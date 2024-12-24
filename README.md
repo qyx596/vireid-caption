@@ -1,6 +1,6 @@
 ## Dataset Description
 
-This dataset enhances the **SYSU-MM01** and **RegDB** datasets by incorporating ID-level English captions of person appearances. 
+This dataset enhances the **SYSU-MM01** and **RegDB** datasets by incorporating ID-level natural language specifications of person appearances. 
 
 - The file associated with **SYSU-MM01** (`sysu.json`) contains **491 entries**.  
 - The file associated with **RegDB** (`regdb.json`) includes **412 entries**.  
